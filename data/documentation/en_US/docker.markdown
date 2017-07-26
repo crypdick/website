@@ -15,6 +15,8 @@ URL rewriting is enabled in the included config file.
 
 When the container is running, the memory utilization is around **30MB**.
 
+The default username is "admin" and the password is "admin".
+
 Use the stable version
 ----------------------
 
